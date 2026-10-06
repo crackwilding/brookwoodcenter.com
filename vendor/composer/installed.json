@@ -1127,7 +1127,7 @@
                 "source": "https://git.drupalcode.org/project/captcha",
                 "issues": "https://www.drupal.org/project/issues/captcha"
             },
-            "install-path": "../../web/modules/contrib/captcha"
+            "install-path": "../../modules/contrib/captcha"
         },
         {
             "name": "drupal/core",
@@ -1305,7 +1305,7 @@
             "support": {
                 "source": "https://github.com/drupal/core/tree/10.6.17"
             },
-            "install-path": "../../web/core"
+            "install-path": "../../core"
         },
         {
             "name": "drupal/core-composer-scaffold",
@@ -1575,7 +1575,7 @@
             "support": {
                 "source": "https://git.drupalcode.org/project/editor_advanced_link"
             },
-            "install-path": "../../web/modules/contrib/editor_advanced_link"
+            "install-path": "../../modules/contrib/editor_advanced_link"
         },
         {
             "name": "drupal/masquerade",
@@ -1649,7 +1649,7 @@
                 "issues": "https://www.drupal.org/project/issues/masquerade",
                 "irc": "irc://irc.freenode.org/drupal-contribute"
             },
-            "install-path": "../../web/modules/contrib/masquerade"
+            "install-path": "../../modules/contrib/masquerade"
         },
         {
             "name": "drupal/recaptcha",
@@ -1735,7 +1735,7 @@
                 "source": "https://git.drupalcode.org/project/recaptcha.git",
                 "issues": "https://www.drupal.org/project/issues/recaptcha"
             },
-            "install-path": "../../web/modules/contrib/recaptcha"
+            "install-path": "../../modules/contrib/recaptcha"
         },
         {
             "name": "drush/drush",
