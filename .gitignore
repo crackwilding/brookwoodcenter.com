@@ -22,21 +22,21 @@
 /sites/simpletest
 
 # Ignore drupal core (if not versioning drupal sources)
-#/core
-#/modules
-#/vendor
-#/.csslintrc
-#/.editorconfig
-#/.eslintignore
-#/.eslintrc.json
-#/.gitattributes
-#/.htaccess
-#/autoload.php
-#/composer.lock
-#/index.php
-#/robots.txt
-#/update.php
-#/web.config
+/core
+/modules
+/vendor
+/.csslintrc
+/.editorconfig
+/.eslintignore
+/.eslintrc.json
+/.gitattributes
+/.htaccess
+/autoload.php
+/composer.lock
+/index.php
+/robots.txt
+/update.php
+/web.config
 /example.gitignore
 /profiles/README.txt
 /sites/README.txt
