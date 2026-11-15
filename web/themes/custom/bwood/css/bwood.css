@@ -6,7 +6,7 @@
 body { background-image: none; background-color: #e5f3bc; }
 .layout-container { margin: auto; }
 
-.block-system-branding-block { background-image: none; min-height: auto; }
+.block-system-branding-block { background-image: none; margin: 0 0 0 2rem; min-height: auto; }
 
 #block-bwood-main-menu ul { position: absolute; right: 0; }
 
@@ -41,11 +41,11 @@ a.primary-nav__menu-link { color: #1a3d50; font-family: var(--sans-serif-font); 
 .clinicians { background: #e5f3bc; padding: 2rem; }
 .clinicians .card { display: flex; flex-wrap: wrap; justify-content: space-between; padding: 1rem .5rem; }
 .clinicians strong { color: #1a3d50; display: block;   font-family: var(--serif-font); font-size: 1.8rem; font-weight: 400; line-height: 3rem; }
-.clinicians .clinician-name { font-family: var(--sans-serif-font); }
+.clinicians .clinician-name { font-family: var(--sans-serif-font); margin: 1.5rem .5rem .5rem .5rem; }
 .clinicians p,
-.clinicians a { color: #000; font-size: 0.9rem; line-height: 1.4rem; text-align: center; margin: 0 .5rem .5rem .5rem; overflow: auto;}
+.clinicians a { color: #000;font-size: 0.9rem; line-height: 1.4rem; text-align: center; margin: 0 .5rem .5rem .5rem; }
 .clinicians a { text-decoration: underline; }
-.clinicians img { margin: 0 auto 3rem 0; width: 100%; }
+.clinicians img { margin: 0 auto 3rem 0; width: 100%;}
 .clinicians .clinician-name a { font-size: 1.2rem; font-weight: bold; }
 
 .contact { padding: 2rem 0 0 0; }
